@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { AiOutlineMenu, AiOutlineClose } from "react-icons/ai";
+import resume from "../assets/Pedro_Resume.pdf"
 
 const Header = () => {
   const [toggle, setToggle] = useState(false);
@@ -22,13 +23,10 @@ const Header = () => {
             <a href="/#projects">Projects</a>
           </li>
           <li>
-            <a href="/#blog">Blog</a>
-          </li>
-          <li>
             <a href="/#contact">Contact</a>
           </li>
           <li>
-            <a href="#resume -link" target="_blank" without rel="noreferrer">
+            <a href={resume} target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-500">
               Resume
             </a>
           </li>
@@ -47,13 +45,10 @@ const Header = () => {
             <a href="/#projects">Projects</a>
           </li>
           <li>
-            <a href="/#blog">Blog</a>
-          </li>
-          <li>
             <a href="/#contact">Contact</a>
           </li>
           <li>
-            <a href="/#resume">Resume</a>
+            <a href={resume}>Resume</a>
           </li>
         </ul>
       </nav>
