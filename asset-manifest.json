@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.da053bdf.css",
+    "main.js": "/static/js/main.2e4f948f.js",
+    "static/media/luzmashop-img.png": "/static/media/luzmashop-img.8b927d8b4fe277cc39bd.png",
+    "static/media/about-img.png": "/static/media/about-img.b41eb1904af8d44d4db8.png",
+    "static/media/imss-2-img.png": "/static/media/imss-2-img.81512ba833fe10371a89.png",
+    "static/media/Pedro_Resume.pdf": "/static/media/Pedro_Resume.a3b30ce8f7ec87392cd7.pdf",
+    "static/media/hero-img.jpg": "/static/media/hero-img.1e0ae146152f2e4b80b0.jpg",
+    "static/media/payment-img.png": "/static/media/payment-img.d98bd298ba961e19a2a4.png",
+    "static/media/movies-img.png": "/static/media/movies-img.d68c73200b4971deb49d.png",
+    "index.html": "/index.html",
+    "main.da053bdf.css.map": "/static/css/main.da053bdf.css.map",
+    "main.2e4f948f.js.map": "/static/js/main.2e4f948f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da053bdf.css",
+    "static/js/main.2e4f948f.js"
+  ]
+}
